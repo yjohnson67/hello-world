@@ -4,11 +4,11 @@ Doing hello world to get my github set up.
  
 ## Instructions for Build and Use
 
-[Software Demo](Put_Your_Video_Link_Here)
+[Software Demo](https://youtu.be/luZPAZXd9us)
 
 Steps to build and/or run the software:
 
-1. Install Python
+1. Install Python...
 2. Press play
 
 
